@@ -1,0 +1,122 @@
+body{
+    margin:auto;
+    padding: 60px;;
+    background: url(box.png) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 600px;
+    background: rgba(0,0,0,0.4);
+    padding:60px;
+    text-align:center;
+    margin:auto;
+    margin:auto;
+    margin-top: 8%;
+    color:white;
+    font-family: 'century Gothic',sans-serif;
+
+}
+.box-img{
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+.box h1{
+    font-size:50px;
+    letter-spacing: 5px;
+    font-weight: 200;
+}
+.box h4{
+    font-size: 25px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}.box h3{
+    font-size: 35px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.box p{
+    font-size: 23px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.dark{
+    width: 600px;
+    background: rgba(0,0,0,0.4);
+    padding:60px;
+    text-align:center;
+    margin:auto;
+    margin:auto;
+    margin-top: 8%;
+    color:white;
+    font-family: 'century Gothic',sans-serif;
+
+}
+.dark-img{
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+} 
+.dark h5{
+    font-size: 25px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.dark li{
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.blue{
+    width: 600px;
+    background: rgba(0,0,0,0.4);
+    padding:60px;
+    text-align:center;
+    margin:auto;
+    margin:auto;
+    margin-top: 8%;
+    color:white;
+    font-family: 'century Gothic',sans-serif;
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+.box li a{
+    color: white;
+    text-decoration:none;
+    font-size: 60px;
+    
+}
+.PURPLE-img{
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+} 
+.PURPLE{width: 600px;
+    background: rgba(0,0,0,0.4);
+    padding:60px;
+    text-align:center;
+    margin:auto;
+    margin:auto;
+    margin-top: 8%;
+    color:white;
+    font-family: 'century Gothic',sans-serif;}
+    .PURPLE h5{
+        font-size: 25px;
+        letter-spacing: 4px;
+        font-weight: 100;
+    }
+    .PURPLE li{
+        text-align: left;
+        font-size: 25px;
+        letter-spacing: 4px;
+        font-weight: 100;
+    }
